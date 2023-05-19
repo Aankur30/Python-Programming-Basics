@@ -27,4 +27,4 @@ print(a)
 h=d1.pop("fruits")
 print(h) #returns the popped dictionary item
 print(dis.keys()) #dict_keys(['fruit', 'car', 'gadgets']) gives the output dictionary
-print(dis.items()) #returns key and value as a 
+print(dis.items()) #returns key and value as a git
