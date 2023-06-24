@@ -34,4 +34,12 @@ e.sort()
 print(e) #gives the sorted list
 print(len(e)) #gets the length and this will work also
 
+#theory of the list
+#1. list is ordered
+#2. list is changeable it allows duplicates
+#3. list can have mixed data types
+#4. list can be constructed with the help of the list constructor like list(("apple","banana"))
+# 5. can use del keyword for deleting the list
+
+#we cannot copy the list simply by typing list2=list1 because list2 will only be a reference to list1 and change made in list1 will automatically also be made in list2
 
