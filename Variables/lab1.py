@@ -77,4 +77,5 @@ p1 = Person("John", 36)
 
 print(p1)
 del p1
+print(p1)
 
